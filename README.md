@@ -8,3 +8,4 @@ git push -u origin master# ebazar-app
 ##Testing this app
 ##Testing this app2
 ##Testing app1 from master
+##Testing app3
