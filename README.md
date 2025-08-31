@@ -6,3 +6,4 @@ git branch -M master
 git remote add origin https://github.com/marriage-app/marriage-bureau.git
 git push -u origin master# ebazar-app
 ##Testing this app
+##Testing this app2
